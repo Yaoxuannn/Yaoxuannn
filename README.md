@@ -8,5 +8,3 @@
 [![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/journey-ad)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/journey_ad)
 
-##### Genshin Impact
-![Genshin Card]([https://genshin-card.getloli.com](https://genshin-card.getloli.com/4/73291576.png))
